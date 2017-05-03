@@ -5,4 +5,6 @@ Modifications are:
 new Holes and thikness of layers is changed.
 
 http://www.thingiverse.com/thing:1217209
-Great thanks to Manuella Galupo.
+
+
+Great thanks and work credits to Manuella Galupo.
